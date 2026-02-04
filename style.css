@@ -1,0 +1,34 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+    background: #f4f6f8;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.form-section,
+.lista-section {
+    background: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+input, textarea, button {
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+button {
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
